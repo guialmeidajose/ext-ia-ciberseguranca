@@ -1,114 +1,47 @@
----
-editor_options:
-  markdown:
-    wrap: 72
-output:
-  html_document:
-    df_print: paged
----
 
-# `<Você Não É um Dado>`
-
-> Revise o título somente se a proposta tiver evoluído desde a E1.
->
-> A E2 representa uma evolução da proposta inicial. Revise as seções já
-> existentes para que elas representem o estado atual do projeto e
-> complete as novas seções de planejamento.
->
-> Não é necessário alterar uma seção apenas para que ela fique diferente
-> da E1. Quando uma decisão continuar válida, ela pode ser mantida.
->
-> **Antes de submeter a E2:** remova todas as instruções apresentadas em
-> blockquotes (`>`), incluindo esta.
+# ECA DIGITAL
 
 ## Equipe
 
-> Revise a composição da equipe e atualize esta seção caso tenha
-> ocorrido alguma alteração desde a E1.
->
-> **A E2 é a última entrega em que serão permitidas alterações na
-> composição dos grupos. A partir desta entrega, a equipe deverá
-> permanecer a mesma até o final da disciplina.**
 
-| Nome                                | RA     | Curso                    |
-|-------------------------------------|--------|--------------------------|
-| Wan Tai Cheuk                       | 277240 | Estatística              |
-| Júlia Curie Takara Chaves           | 233837 | Engenharia de Alimentos  |
-| Guilherme José de Oliveira          | 281218 | Engenharia de Computação |
-| Matheus Pierri de Oliveira          | 277209 | Estatística              |
-| Eduardo Penna Lima Guedes de Amorim | 277141 | Estatística              |
-
+| Nome | RA | Curso |
+| --- | --- | --- |
+| `Júlia Curie Takara Chaves` |  `233837`  | `Engenharia de Alimentos` |
+| `Eduardo Penna Lima Guedes de Amorim` | `277141` | `Estatística` |
+| `Matheus Pierri de Oliveira` | `277209` | `Estatística` |
+| `Wan Tai Cheuk` | `277240` | `Estatística` |
+| `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
 ## Proposta
 
-> **Revisão da E1.**
->
-> Atualize a síntese da proposta para representar o projeto como ele
-> existe atualmente. Uma pessoa que leia apenas esta seção deve
-> compreender o que será realizado, com qual público e com qual
-> propósito.
-
-`<A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial aprende com seus próprios dados para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens capazes de reconhecer quando estão sendo manipulados por algoritmos e de se protegerem contra os riscos da internet.">`
+>A proposta consiste em uma oficina de 40 minutos para alunos do Ensino Médio, intitulada 'Você Não É um Dado', que articula IA (Machine learning) e Cibersegurança a partir de uma experiência prática e reflexiva. Os participantes vivenciam, na prática, como uma Inteligência Artificial utiliza dados de usuários para direcionar anúncios e criar perfis de consumo, e, em seguida, discutem como esses mesmos dados podem ser usados para propósitos que talvez sejam desconhecidos do cidadão. A oficina utiliza os alunos como asmostra para o teste do modelo programado, tentando fornecer conteudos que lhe são interessantes. O objetivo é desenvolver pensamento crítico, consciência sobre o valor dos dados pessoais e autonomia no ambiente digital, formando jovens concientes acerca de como os dados disponibilizados no ambiente online podem ser usados, a fim de terem autonomia durante a gestão de informações pessoais.
 
 ## Problema e Contexto
 
-> **Revisão da E1.**
->
-> Incorpore novas referências, informações ou aprendizados que tenham
-> contribuído para compreender melhor o problema desde a primeira
-> entrega.
->
-> Verifique se a relevância do problema está relacionada especificamente
-> ao público e ao contexto escolhidos, evitando justificativas
-> excessivamente genéricas.
-
-`<Jovens de 16 e 17 anos estão inseridos em um ambiente digital no qual seus dados são coletados, analisados e utilizados por algoritmos de Machine Learning para direcionar anúncios, moldar comportamentos e influenciar decisões. A maioria desconhece ou não tem aprofundamento nesse processo e não compreende que suas informações pessoais podem ser usadas tanto para personalização de conteúdo quanto para manipulação, golpes e violações de privacidade. Diante disso, a oficina surge como resposta a essa lacuna, propondo uma experiência prática em que os próprios alunos vivenciam como uma IA aprende com seus dados e refletem sobre os riscos e implicações éticas desse uso, desenvolvendo pensamento crítico e autonomia no ambiente digital.>`
+>Jovens de 16 e 17 anos estão inseridos em um ambiente digital no qual seus dados são coletados, analisados e utilizados por algoritmos de Aprendizado de Máquina para direcionar anúncios, moldar comportamentos e influenciar decisões. A maioria desconhece ou não tem aprofundamento nesse processo e não compreende que suas informações pessoais podem ser usadas tanto para personalização de conteúdo quanto para manipulação, golpes e violações de privacidade. Diante disso, a oficina surge como resposta a essa lacuna, propondo uma experiência prática em que os próprios alunos vivenciam como uma IA aprende com seus dados e refletem sobre os riscos e implicações éticas desse uso, desenvolvendo pensamento crítico e autonomia no ambiente digital.
 
 ## Público
 
-> **Revisão da E1.**
->
-> Atualize esta seção caso o grupo tenha aprendido mais sobre o público,
-> estabelecido contato com instituições ou identificado necessidades que
-> não haviam sido consideradas inicialmente.
->
-> Diferencie, quando pertinente, características do público
-> fundamentadas em referências ou experiências das hipóteses que o grupo
-> ainda pretende verificar durante as aplicações.
-
-`<O público-alvo da oficina são adolescentes de 16 e 17 anos, matriculados no Ensino Médio. Essa faixa etária caracteriza-se pelo desenvolvimento do pensamento abstrato e crítico, pela busca de autonomia e identidade, e pela intensa inserção no ambiente digital especialmente em redes sociais, jogos online e plataformas de conteúdo. São nativos digitais que utilizam a internet diariamente, mas, em sua maioria, desconhecem como seus dados são coletados, analisados e utilizados por algoritmos de Machine Learning para direcionar anúncios e influenciar comportamentos. A escolha desse público justifica-se por sua vulnerabilidade a práticas de manipulação digital e pela necessidade de desenvolver competências críticas e éticas sobre o uso da tecnologia, preparando-os para exercer cidadania digital consciente, se proteger e proteger os próximos de riscos como golpes, violações de privacidade e manipulação algorítmica.>`
+>O público-alvo da oficina são adolescentes de 16 e 17 anos, matriculados no Ensino Médio. Essa faixa etária caracteriza-se pelo desenvolvimento do pensamento abstrato e crítico, pela busca de autonomia e identidade, e pela intensa inserção no ambiente digital especialmente em redes sociais, jogos online e plataformas de conteúdo. São nativos digitais que utilizam a internet diariamente, mas, em sua maioria, desconhecem como seus dados são coletados, analisados e utilizados por algoritmos de Machine Learning para direcionar anúncios e influenciar comportamentos. A escolha desse público justifica-se por sua vulnerabilidade a práticas de manipulação digital e pela necessidade de desenvolver competências críticas e éticas sobre o uso da tecnologia, preparando-os para exercer cidadania digital consciente, se proteger e proteger os próximos de riscos como golpes, violações de privacidade e manipulação algorítmica.
 
 ## Objetivos
 
 ### Objetivo Geral
 
-> Revise o objetivo geral caso a proposta tenha evoluído desde a E1.
-
-`<Desenvolver pensamento crítico em adolescentes sobre o uso de seus dados por algoritmos de Machine Learning, capacitando-os a reconhecer riscos e se protegerem no ambiente digital.>`
+>Desenvolver pensamento crítico em adolescentes sobre o uso de seus dados por algoritmos de Aprendizado de Máquina, capacitando-os a reconhecer riscos e se protegerem no ambiente digital.
 
 ### Objetivos Específicos
 
 > Verifique se os objetivos específicos descrevem resultados que poderão
 > ser observados ou investigados durante as aplicações.
 
--   `<Identificar como algoritmos de Machine Learning utilizam dados pessoais para direcionar anúncios e criar perfis de consumo.>`
--   `<Reconhecer os riscos do uso indevido de dados pessoais, incluindo manipulação, golpes e violações de privacidade.>`
--   `<Desenvolver atitudes críticas e autônomas de proteção no ambiente digital, refletindo sobre ética, privacidade e cidadania digital.>`
+-   `Identificar como algoritmos de Machine Learning utilizam dados pessoais para direcionar anúncios e criar perfis de consumo.`
+-   `Reconhecer os riscos do uso indevido de dados pessoais, incluindo manipulação, golpes e violações de privacidade.`
+-   `Desenvolver atitudes críticas e autônomas de proteção no ambiente digital, refletindo sobre ética, privacidade e cidadania digital.`
+
 
 ## Experiência
 
-> Na E1, esta seção apresentava uma concepção inicial. Na E2, descreva
-> de forma mais concreta a experiência que o grupo pretende
-> proporcionar.
->
-> Explique o formato geral da atividade e como os participantes irão
-> interagir com ela. Procure deixar clara a relação entre as escolhas
-> realizadas, as características do público e os objetivos do projeto.
->
-> Considere especialmente o papel ativo dos participantes: decisões,
-> discussões, experimentação, resolução de problemas, produção,
-> colaboração ou outras formas de participação pertinentes à proposta.
-
-`<"A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: 'O que seu feed sabe sobre você?'. Em seguida, os alunos respondem anonimamente a um formulário com 8 perguntas sobre seus interesses, hábitos e consumo (jogo favorito, música, rede social, marca, pesquisas, etc.). O organizador insere os dados em um modelo simples de Machine Learning que classifica automaticamente os alunos em grupos de perfil – por exemplo: 'Gamer', 'Vestibulando', 'Influencer', 'Alternativo'. A partir dessa classificação, o organizador projeta no telão exemplos de anúncios, conteúdos e produtos que seriam direcionados especificamente para cada grupo, mostrando na prática como a IA usa os dados para atrair e influenciar cada perfil. Em seguida, são apresentados diversos anúncios, com anúncios golpistas misturados, e os alunos precisam identificá-los e refletir sobre como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina encerra com uma discussão ética: 'Você é o cliente ou o produto?'.">`
+> A experiência planejada consiste em uma oficina de 45 minutos, conduzida com o telão como ferramenta central. A atividade começa com uma provocação: 'O que seu feed sabe sobre você?'. Em seguida, os alunos respondem anonimamente a um formulário com 8 perguntas sobre seus interesses, hábitos e consumo (jogo favorito, música, rede social, marca, pesquisas, etc.). O organizador insere os dados em um modelo simples de Machine Learning que classifica automaticamente os alunos em grupos de perfil – por exemplo: 'Gamer', 'Vestibulando', 'Influencer', 'Alternativo'. A partir dessa classificação, o organizador projeta no telão exemplos de anúncios, conteúdos e produtos que seriam direcionados especificamente para cada grupo, mostrando na prática como a IA usa os dados para atrair e influenciar cada perfil. Em seguida, são apresentados diversos anúncios, com anúncios golpistas misturados, e os alunos precisam identificá-los e refletir sobre como esses mesmos dados podem ser usados para o mal – como manipulação, golpes e violações de privacidade. A oficina encerra com uma discussão ética: **`Você é o cliente ou o produto?`**
 
 ### Roteiro da Atividade
 
@@ -121,13 +54,9 @@ output:
 > Considere a experiência do participante desde sua chegada até o
 > encerramento da atividade.
 
-+-------------+----------+-----------------+-------------+-------------+
-| Etapa       | Duração  | Atividade       | P           | Recursos    |
-|             |          |                 | articipação |             |
-|             |          |                 | do público  |             |
-+=============+=========:+=================+=============+=============+
-| Recepção e  | 5min     | O organizador   | Os alunos   | Telão,      |
-| Provocação  |          | recebe os       | refletem e  | slides,     |
+| Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
+| --- | --- | --- | --- | --- |
+| Recepção e Provocação | 5 min     | O organizador recebe os alunos e projeta a pergunta: *"O que seu feed sabe sobre você?"*. Em seguida, apresenta dados sobre o uso de redes sociais e coleta de dados por IA | Os alunos refletem e respondem  em voz  | Telão, slides, computador  |
 |             |          | alunos e        | respondem   | computador  |
 |             |          | projeta a       | em voz      |             |
 |             |          | pergunta: *"O   | alta: *"O   |             |
