@@ -135,17 +135,6 @@
 -   Celulares (opcional)
 
 ### Testes Necessários
-
-> Identifique o que precisa ser testado antes da primeira aplicação.
->
-> Considere especialmente elementos cuja falha possa comprometer a
-> experiência: áudio, vídeo, Internet, ferramentas externas,
-> formulários, equipamentos, materiais impressos, duração das dinâmicas
-> e instruções fornecidas ao público.
->
-> Testar uma atividade também pode revelar problemas de compreensão,
-> ritmo ou duração que não aparecem durante seu planejamento.
-
 -   Formulário de coleta de dados
 -   Modelo de classificação em perfis
 -   Enquete ao vivo
@@ -191,20 +180,8 @@
 
 ## Referências
 
-> Mantenha as referências relevantes da E1 e acrescente novas fontes
-> utilizadas para refinar o conteúdo, compreender o público, desenvolver
-> a experiência ou planejar sua avaliação.
->
-> Para uma introdução ao princípio de decomposição utilizado no
-> planejamento de projetos de engenharia, consulte:
->
-> -   NASA. *Work Breakdown Structure (WBS) Handbook*. Disponível em:
->     <https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf>
->
-> Não é necessário aplicar formalmente a metodologia apresentada no
-> manual. A referência é disponibilizada para contextualizar a prática
-> de decompor um projeto em entregáveis e unidades de trabalho
-> gerenciáveis.
+-    `Cartilha de Segurança para Internet, autor CERT.br/NIC.br - https://cartilha.cert.br/`
 
--   `<Referência do projeto 1>`
--   `<Referência do projeto 2>`
+- `COUGO, Cecília Dutra Garcia. Educação e cibersegurança: práticas pedagógicas para a formação de alunos conscientes no uso da internet. 2025. Trabalho de Conclusão de Curso (Licenciatura em Computação e Robótica Educativa) – Universidade Federal do Rio Grande do Sul, Campus Litoral Norte, 2025. Disponível em: https://lume.ufrgs.br/handle/10183/290613`.
+
+-   `NG, Andrew. Unsupervised Learning, Recommenders, Popularity Matching. Machine Learning Specialization. DeepLearning.AI; Stanford University. Disponível na plataforma Coursera. Acesso em: set. 2026.`
