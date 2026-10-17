@@ -165,4 +165,4 @@
 
 -   `NG, Andrew. Unsupervised Learning, Recommenders, Popularity Matching. Machine Learning Specialization. DeepLearning.AI; Stanford University. Disponível na plataforma Coursera. Acesso em: set. 2026.`
   
--   SABIÁ: inteligência artificial à brasileira. Apresentação: Bruno Franchi, Luana Vicentin e Amira Dergham. Campinas: BI0S (Brazilian Institute of Data Science)/Unicamp, 2024-. Podcast. Disponível em: Spotify. Acesso em: 16 out. 2026.
+-   `SABIÁ: inteligência artificial à brasileira. Apresentação: Bruno Franchi, Luana Vicentin e Amira Dergham. Campinas: BI0S (Brazilian Institute of Data Science)/Unicamp, 2024-. Podcast. Disponível em: Spotify. Acesso em: 16 out. 2026.`
