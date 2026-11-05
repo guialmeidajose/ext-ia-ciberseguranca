@@ -83,13 +83,6 @@
 
 ### Dependências Críticas
 
-> Destaque apenas as dependências que podem determinar ou bloquear o
-> andamento do projeto.
->
-> Exemplos: confirmação do público antes da divulgação; finalização do
-> jogo antes do teste; definição do local antes de verificar os
-> equipamentos disponíveis.
-
 -   Confirmação do público e escola antes de definir o tema e o formato
     da oficina
 
@@ -102,13 +95,6 @@
 ## Materiais e Recursos
 
 ### Materiais a Desenvolver
-
-> Liste os materiais que precisam ser produzidos pelo grupo. Quando já
-> existirem, inclua links ou caminhos para os arquivos correspondentes.
->
-> Sempre que possível, mantenha os materiais produzidos dentro da pasta
-> do projeto. Materiais mantidos em plataformas externas podem ser
-> referenciados por links.
 
 -   Modelo de machine learning
 -   Gemini Notebook
@@ -126,9 +112,8 @@
 -   Celulares (opcional)
 
 ### Testes Necessários
--   Formulário de coleta de dados 
--   Modelo de classificação em perfis
--   Enquete ao vivo
+-   Formulário de coleta de dados (já testado)
+-   Modelo de classificação em perfis (já testadi)
 -   Projetor e internet
 
 ## Avaliação
@@ -193,11 +178,9 @@ Concluimos que a oficina foi muito bem sucedida em ensinar como o Machine Learni
 
 ### Preparação da Segunda Aplicação
 
-> Atualize **nas seções já existentes do README** o roteiro, os materiais, os testes, os responsáveis, a articulação com o público e os indicadores de avaliação que tenham mudado. Aqui, registre somente as pendências ou decisões mais importantes para a próxima aplicação.
-
-- **Situação da segunda aplicação:** `<contexto/período previsto e o que já está encaminhado>`
-- **Pendências prioritárias:** `<o que falta concluir ou confirmar>`
-- **Como verificaremos as melhorias:** `<que evidências serão observadas ou coletadas>`
+- **Situação da segunda aplicação:** `Já temos o projeto pronto e atualizado com os erros corrigidos, só falta marcar a data exata da aplicação.`
+- **Pendências prioritárias:** `Não é uma certeza que conseguiremos aplicar a atividade no mesmo colégio devido à reta final de provas (já estamos procurando uma outra alternativa)`
+- **Como verificaremos as melhorias:** `Aplicaremos o mesmo formulário, porém dessa vez com mais rigor nas avaliações devido a uma grande quantidade de formulários não respondidos e buscaremos corrigir os problemas citados nos feedbacks da aplicação anterior`
 
 ## Referências
 
