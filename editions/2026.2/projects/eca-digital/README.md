@@ -47,11 +47,10 @@
 
  Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
 | --- | --- | --- | --- | --- |
-| Recepção e Provocação | 5 min     | O organizador recebe os alunos e faz uma provocação questionando o conhecimento deles em relação à Inteligência Artificial e Machine Learning  | Os alunos refletem o questionamento: *"Quais filmes eu gostaria com base nos minhas avaliações?"* | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
-| Coleta de Dados  | 5 min     | Explicação de que os dados coletados serão inseridos num modelo simples de Machine Learning que retorna notas prováveis para outros filmes ainda não avaliados por cada aluno, prevendo preferências a partir dos padrões encontrados nas respostas da turma. | Telão, slides e computador |
-| Classificação | 15 min     | O organizador projeta no telão algumas dessas previsões e compara com a nota  real que o aluno daria, mostrando como o modelo acerta (ou erra) ao "adivinhar" o gosto de alguém só a partir de poucas respostas. | A partir disso, é explicado como esse mesmo princípio está por trás das recomendações de plataformas como Netflix, Spotify e Youtube. | Telão, computador, planilha |
-| Debate Ético     | 7 min     | Na sequência, a equipe se direciona para o lado sensível dessa tecnologia, conduzindo a discussão: "Como seus dados podem ser usados de maneira não adequada?" | Os alunos participam do debate, expõem opiniões, discordam e refletem sobre ética, privacidade e proteção.   | Telão, slides com perguntas, espaço para debate.   |
-| Encerramento | 5 min     | A oficina se encerra com uma discussão ética, provocada pela pergunta: “Você é o cliente ou o produto?”. O objetivo é levar os alunos a refletirem sobre o valor dos próprios dados, os limites entre personalização e exposição, e a importância de uma postura crítica diante das tecnologias que preveem e moldam seus gostos. | Telão     |
+| Abertura e Teoria | 10 min     | O organizador recebe os alunos e introduz o conceito de Machine Learning de forma teórica e acessível, explicando como as máquinas aprendem a partir de padrões de dados. Em seguida, apresenta a dinâmica: eles avaliarão filmes para testar o modelo.  | Os alunos ouvem a explicação e se preparam para a atividade prática. | Telão, slides, celulares |
+| Avaliação dos Filmes (Prática)  | 15 min     | Os alunos acessam a plataforma e começam atribuindo notas de 1 a 5 para filmes que já conhecem. O organizador recolhe as respostas para inseri-las no modelo. (ou poderão realizar o próprio teste no celular) | Os alunos avaliam os filmes com base em seus gostos pessoais. | Telão, celular e plataforma |
+| Demonstração e Recomendação | 10 min     | O organizador insere as notas no modelo e projeta no telão como a máquina cruza os dados e gera recomendações de novos filmes. O modelo mostra que é capaz de prever o gosto dos alunos com base nas avaliações iniciais. | Os alunos reagem às recomendações, percebendo como a IA usou os dados deles para fazer as previsões | Telão, celular, plataforma |
+| Encerramento Focado no Enem (Gemini Notebook) | 10 min     | A oficina encerra apresentando o Gemini Notebook. Mostra-se como a IA (que aprende com dados) pode ser uma aliada prática nos estudos, resumindo PDFs e criando quizzes para o Enem e vestibulares, sem esquecer de alertar sobre não inserir dados sensíveis na ferramenta. | Os alunos acompanham a demonstração e tiram dúvidas sobre como usar a ferramenta para estudar.  | Telão, computador com internet e Gemini Notebook.  |
 
 **Duração total estimada:** 45 minutos.
 
@@ -77,10 +76,10 @@
 
 | Entregável/Resultado  | Tarefa      | Responsável(is)        | Prazo       | Situação    |
 | --- | --- | --- | --- | --- |
-| Articulação com a escola | Entrar em contato com o setor responsável da escola  | Wan, Eduardo    | 8/10        | em andamento  |
-| Dinamica    | Programação e roteirização da oficina | Julia, Wan       | 8/10        | em andamento          |
-| Parte técnica (modelo, e softwares testados)      | Programação dos modelos que serão utilizados | Guilherme, Matheus  | 8/10        | não iniciada   |
-| Teste piloto     | Aplicar a oficina, coletar e ampliar a base de dados para aperfeiçoar  |Wan, Julia, Eduardo, Matheus e Guilherme        | 12/10       | não iniciada   |
+| Articulação com a escola | Entrar em contato com o setor responsável da escola  | Wan, Eduardo    | 8/10        | finalizado  |
+| Dinamica    | Programação e roteirização da oficina | Julia, Wan       | 8/10        | finalizado        |
+| Parte técnica (modelo, e softwares testados)      | Programação dos modelos que serão utilizados | Guilherme, Matheus  | 8/10        | finalizado   |
+| Teste piloto     | Aplicar a oficina, coletar e ampliar a base de dados para aperfeiçoar  |Wan, Julia, Eduardo, Matheus e Guilherme        | 12/10       | finalizado   |
 
 ### Dependências Críticas
 
@@ -112,7 +111,7 @@
 > referenciados por links.
 
 -   Modelo de machine learning
--   Chatbot (opcional)
+-   Gemini Notebook
 -   Infograficos ao vivo (opcional)
 
 ### Recursos para a Aplicação
@@ -122,11 +121,12 @@
 > atividade.
 
 -   Internet
+-   Computador
 -   Projetor
 -   Celulares (opcional)
 
 ### Testes Necessários
--   Formulário de coleta de dados
+-   Formulário de coleta de dados 
 -   Modelo de classificação em perfis
 -   Enquete ao vivo
 -   Projetor e internet
@@ -184,12 +184,12 @@ Concluimos que a oficina foi muito bem sucedida em ensinar como o Machine Learni
 
 ## Plano de Aprimoramento para a Segunda Aplicação
 
-> A segunda aplicação deve incorporar aprendizados da primeira. Indique as mudanças mais importantes, sua justificativa e o efeito esperado. Não é necessário propor mudanças artificiais quando algo funcionou bem.
-
 | Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
 | --- | --- | --- |
-| `<O que foi observado>` | `<O que será modificado>` | `<O que se espera melhorar>` |
-| `<O que foi observado>` | `<O que será modificado>` | `<O que se espera melhorar>` |
+| `Falta de cibersegurança: golpes, phishing e privacidade (objetivo original) foram retirados para dar lugar ao Gemini Notebook, deixando uma lacuna na formação crítica sobre riscos digitais.` | `Reintroduzir o tema: bloco rápido de 5 a 7 min de “Alerta de Segurança” após a recomendação dos filmes, mostrando que os mesmos dados que recomendam filmes podem servir para golpes (ex.: anúncio falso de ingressos).` | `Conscientização sobre compartilhamento de dados e cumprimento do objetivo de cibersegurança, sem perder o engajamento do Gemini.` |
+| `Falha técnica com a hospedagem do servidor` | `Plano B obrigatório e testado: oficina 100% funcional só com telão ou servidor novo; testar a infraestrutura da escola antes e ter os arquivos do Gemini e do modelo de Machine Learning baixados.` | `Mais segurança na execução e menos estresse da equipe diante de imprevistos.` |
+| `Acerto no encerramento (Gemini Notebook): a ferramenta de estudos para o Enem gerou grande interesse e engajamento.` | `Manter a abordagem, conectando-a à cibersegurança (ex.: IA resumindo PDFs, com alerta sobre os riscos de subir documentos com dados pessoais).` | `Manter o alto engajamento, com viés mais crítico e seguro.` |
+| `Acerto na metodologia: explicar o Machine Learning e depois mostrar as recomendações geradas pelas notas dos alunos foi muito eficaz.` | `Manter a sequência didática: teoria, avaliação de filmes e demonstração da máquina funcionando.` | `Consolidação concreta e significativa do aprendizado de Machine Learning.` |
 
 ### Preparação da Segunda Aplicação
 
