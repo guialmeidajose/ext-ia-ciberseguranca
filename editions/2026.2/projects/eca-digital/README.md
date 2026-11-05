@@ -47,7 +47,7 @@
 
  Etapa       | Duração  | Atividade       | Participação do público | Recursos    |
 | --- | --- | --- | --- | --- |
-| Recepção e Provocação | 5 min     | O organizador recebe os alunos e apresenta a eles um formulário com a seguinte pergunta: *"Qual nota você daria para determinado filme?"*. Em seguida, os alunos respondem anonimamente o formulário avaliando alguns filmes com base em seus gostos pessoais. | Os alunos refletem o questionamento: *"Quais filmes eu gostaria com base nos minhas avaliações?"* | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
+| Recepção e Provocação | 5 min     | O organizador recebe os alunos e faz uma provocação questionando o conhecimento deles em relação à Inteligência Artificial e Machine Learning  | Os alunos refletem o questionamento: *"Quais filmes eu gostaria com base nos minhas avaliações?"* | Formulário (Google Forms ou impressão), celulares ou papel e caneta |
 | Coleta de Dados  | 5 min     | Explicação de que os dados coletados serão inseridos num modelo simples de Machine Learning que retorna notas prováveis para outros filmes ainda não avaliados por cada aluno, prevendo preferências a partir dos padrões encontrados nas respostas da turma. | Telão, slides e computador |
 | Classificação | 15 min     | O organizador projeta no telão algumas dessas previsões e compara com a nota  real que o aluno daria, mostrando como o modelo acerta (ou erra) ao "adivinhar" o gosto de alguém só a partir de poucas respostas. | A partir disso, é explicado como esse mesmo princípio está por trás das recomendações de plataformas como Netflix, Spotify e Youtube. | Telão, computador, planilha |
 | Debate Ético     | 7 min     | Na sequência, a equipe se direciona para o lado sensível dessa tecnologia, conduzindo a discussão: "Como seus dados podem ser usados de maneira não adequada?" | Os alunos participam do debate, expõem opiniões, discordam e refletem sobre ética, privacidade e proteção.   | Telão, slides com perguntas, espaço para debate.   |
@@ -62,7 +62,7 @@
 -   **Público previsto:**
     `Alunos de 16 e 17 anos, matriculados no Ensino Médio.`
 -   **Contexto de aplicação:**
-    `Escola de Ensino Médio (a instituição parceira ainda está em negociação). A atividade será realizada em sala de aula ou auditório, com o telão como ferramenta central.`
+    `Escola de Ensino Médio (Colégio Marista Arquidiocesano). A atividade será realizada em sala de aula, com o telão como ferramenta central.`
 -   **Número estimado de participantes:** `80 alunos (2 turmas)
 -   **Período previsto:** `22 de Outubro`
 
@@ -159,25 +159,28 @@
 
 ### Contexto da Aplicação
 
-> Registre apenas as informações necessárias para compreender a atividade realizada. Não inclua dados pessoais dos participantes ou contatos individuais.
-
-- **Data ou período:** `<...>`
-- **Local/contexto:** `<...>`
-- **Público atendido:** `<...>`
-- **Número aproximado de participantes:** `<...>`
-- **Duração efetiva:** `<...>`
+- **Data ou período:** `<22/10>`
+- **Local/contexto:** `<Colégio Marista Arquidiocesano>`
+- **Público atendido:** `<Estudantes do segundo ano do Ensino Médio>`
+- **Número aproximado de participantes:** `<40>`
+- **Duração efetiva:** `<45 minutos>`
 
 ### O que Aconteceu e o que Aprendemos
 
-> Faça uma análise breve, mas concreta. Compare a experiência com o roteiro e os objetivos planejados. Indique o que funcionou bem, o que não funcionou e o que surpreendeu o grupo. Evite apenas afirmar que “foi um sucesso”: dê exemplos ou evidências.
+`O roteiro planejado inicialmente previa uma oficina de 45 minutos dividida em cinco etapas, com forte foco em cibersegurança e no uso de recursos tecnológicos individuais. A ideia era iniciar com a aplicação de um formulário sobre filmes, passar pela coleta de dados, explicar o Machine Learning na etapa de classificação, conduzir um debate ético sobre os perigos do uso indevido de dados (como golpes e phishing) e encerrar com a pergunta "Você é o cliente ou o produto?". No entanto, a aplicação real exigiu adaptações profundas no formato. A primeira mudança ocorreu na sequência de ensino: em vez de começar pela prática e explicar a teoria no meio, a equipe iniciou a oficina com uma explicação teórica sobre como a IA aprende e, em seguida, utilizou a avaliação de filmes (com notas de 1 a 5) como a atividade prática para consolidar o conceito. Essa inversão foi um grande acerto, pois os alunos puderam ver na prática a teoria funcionando, percebendo como os dados que eles mesmos geraram alimentaram o modelo de recomendações no telão.`
 
-`<Relato analítico da primeira aplicação.>`
+`A segunda mudança foi de ordem logística: o planejamento dependia do uso de computadores e formulários digitais, mas houve a impossibilidade de utilizá-los de forma contínua durante a aplicação. Diante desse imprevisto técnico, a equipe precisou adaptar a dinâmica, usando o telão e recursos analógicos. A terceira e mais significativa mudança foi a exclusão do debate ético sobre cibersegurança e golpes, que estava previsto para durar 7 minutos. O tema de segurança digital foi completamente retirado da aplicação. Em vez disso, considerando que o público de 16 e 17 anos está focado no Enem e nos vestibulares, a equipe substituiu o encerramento pela apresentação do Gemini Notebook. Mostrou-se como a IA pode ser uma aliada prática nos estudos (resumindo PDFs, criando quizzes, video aulas, infográficos e etc.), o que gerou grande engajamento e conectou a tecnologia à realidade imediata dos alunos. Então, embora a aplicação tenha se afastado do roteiro original, especialmente pela ausencia do tópico de cibersegurança e ao uso de computadores, as adaptações realizadas foram bem avaliadas pelos alunos pois se aproximou da realidade deles no momento.`
 
 ### Evidências e Feedback
 
 > Apresente os principais resultados obtidos com os instrumentos previstos anteriormente, como respostas, observações, produções dos participantes ou feedback. Quando possível, informe quantas pessoas responderam. Diferencie observações, opiniões e conclusões; registre limitações da coleta. Não publique respostas identificáveis ou imagens sem autorização.
 
-`<Principais evidências, interpretação e limitações. Inclua links para materiais ou resultados anonimizados, quando pertinente.>`
+`A coleta contou com a participação de 16 alunos. Os dados quantitativos (autoavaliação de 1 a 9) mostram um impacto positivo e claro: no gráfico pré oficina, as notas se concentravam entre 1 e 6 (68,8% deram notas 5 ou 6, e ninguém deu 8 ou 9). No gráfico pós oficina, as notas de 1 a 5 foram totalmente zeradas, e as respostas se concentraram nas notas 7, 8 e 9 (totalizando 87,6% das respostas). Isso evidencia de forma descritiva que os alunos se sentiam muito mais confiantes sobre o tema.`
+
+`Durante a prática observamos alto engajamento dos alunos durante a avaliação dos filmes. O grande acerto metodológico foi explicar a teoria primeiro e usar os dados gerados pelos próprios alunos para demonstrar as recomendações no telão. O encerramento com o Gemini Notebook também gerou grande interesse prático.`
+
+`Interpretação e Limitações:
+Concluimos que a oficina foi muito bem sucedida em ensinar como o Machine Learning funciona na prática. No entanto, a principal limitação foi o corte do debate sobre cibersegurança e golpes, o que representou uma perda no objetivo original de conscientização sobre riscos digitais. Além disso, falhas técnicas com os computadores exigiram adaptação total da equipe para outros formatos. A avaliação se baseou na comparação descritiva dos gráficos pré e pós e na observação direta das reações da turma. Não foram coletadas respostas identificáveis ou imagens sem autorização, preservando o anonimato dos participantes.`
 
 ## Plano de Aprimoramento para a Segunda Aplicação
 
