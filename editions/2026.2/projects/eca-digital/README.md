@@ -144,17 +144,21 @@
 
 ### Contexto da Aplicação
 
-- **Data ou período:** `<22/10>`
-- **Local/contexto:** `<Colégio Marista Arquidiocesano>`
-- **Público atendido:** `<Estudantes do segundo ano do Ensino Médio>`
-- **Número aproximado de participantes:** `<40>`
-- **Duração efetiva:** `<45 minutos>`
+- **Data ou período:** `22/10`
+- **Local/contexto:** `Colégio Marista Arquidiocesano`
+- **Público atendido:** `Estudantes do segundo ano do Ensino Médio`
+- **Número aproximado de participantes:** `40`
+- **Duração efetiva:** `45 minutos`
 
 ### O que Aconteceu e o que Aprendemos
 
 `O roteiro planejado inicialmente previa uma oficina de 45 minutos dividida em cinco etapas, com forte foco em cibersegurança e no uso de recursos tecnológicos individuais. A ideia era iniciar com a aplicação de um formulário sobre filmes, passar pela coleta de dados, explicar o Machine Learning na etapa de classificação, conduzir um debate ético sobre os perigos do uso indevido de dados (como golpes e phishing) e encerrar com a pergunta "Você é o cliente ou o produto?". No entanto, a aplicação real exigiu adaptações profundas no formato. A primeira mudança ocorreu na sequência de ensino: em vez de começar pela prática e explicar a teoria no meio, a equipe iniciou a oficina com uma explicação teórica sobre como a IA aprende e, em seguida, utilizou a avaliação de filmes (com notas de 1 a 5) como a atividade prática para consolidar o conceito. Essa inversão foi um grande acerto, pois os alunos puderam ver na prática a teoria funcionando, percebendo como os dados que eles mesmos geraram alimentaram o modelo de recomendações no telão.`
 
 `A segunda mudança foi de ordem logística: o planejamento dependia do uso de computadores e formulários digitais, mas houve a impossibilidade de utilizá-los de forma contínua durante a aplicação. Diante desse imprevisto técnico, a equipe precisou adaptar a dinâmica, usando o telão e recursos analógicos. A terceira e mais significativa mudança foi a exclusão do debate ético sobre cibersegurança e golpes, que estava previsto para durar 7 minutos. O tema de segurança digital foi completamente retirado da aplicação. Em vez disso, considerando que o público de 16 e 17 anos está focado no Enem e nos vestibulares, a equipe substituiu o encerramento pela apresentação do Gemini Notebook. Mostrou-se como a IA pode ser uma aliada prática nos estudos (resumindo PDFs, criando quizzes, video aulas, infográficos e etc.), o que gerou grande engajamento e conectou a tecnologia à realidade imediata dos alunos. Então, embora a aplicação tenha se afastado do roteiro original, especialmente pela ausencia do tópico de cibersegurança e ao uso de computadores, as adaptações realizadas foram bem avaliadas pelos alunos pois se aproximou da realidade deles no momento.`
+
+`Como mencionamos anteriormente, propomos uma oficina prática para que os participantes pudessem avaliar o funcionamento de um sistema de recomendação na prática:`
+
+> Acesse a [Oficina ofertada](https://ex071-2026s2.streamlit.app/). Como usamos uma ferramenta de hospedagem gratuita, o site não permanece disponível quando o tempo de inatividade é superior a 12 horas. Para o uso da ferramenta, deve-se selecionar a opção `Yes, get this app back up!`. Apesar das limitações, o serviço de hospedagem usado foi eficiente para que não fosse necessário realizar instalações, e que os alunos pudessem acessar intuitivamente. Realizou-se otimizações na segunda etapa para que o site de hospedagem comportasse o volume de acessos. E ainda contamos com o acesso local dos nossos equipamentos.
 
 ### Evidências e Feedback
 
