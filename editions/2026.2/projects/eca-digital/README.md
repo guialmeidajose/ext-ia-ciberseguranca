@@ -144,11 +144,11 @@
 
 ### Contexto da Aplicação
 
-- **Data ou período:** `<22/10>`
-- **Local/contexto:** `<Colégio Marista Arquidiocesano>`
-- **Público atendido:** `<Estudantes do segundo ano do Ensino Médio>`
-- **Número aproximado de participantes:** `<40>`
-- **Duração efetiva:** `<45 minutos>`
+- **Data ou período:** `22/10`
+- **Local/contexto:** `Colégio Marista Arquidiocesano`
+- **Público atendido:** `Estudantes do segundo ano do Ensino Médio`
+- **Número aproximado de participantes:** `40`
+- **Duração efetiva:** `45 minutos`
 
 ### O que Aconteceu e o que Aprendemos
 
