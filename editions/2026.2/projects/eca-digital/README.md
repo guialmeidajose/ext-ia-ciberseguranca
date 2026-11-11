@@ -158,7 +158,11 @@
 
 `Como mencionamos anteriormente, propomos uma oficina prática para que os participantes pudessem avaliar o funcionamento de um sistema de recomendação na prática:`
 
-> Acesse a [Oficina ofertada](https://ex071-2026s2.streamlit.app/). Como usamos uma ferramenta de hospedagem gratuita, o site não permanece disponível quando o tempo de inatividade é superior a 12 horas. Para o uso da ferramenta, deve-se selecionar a opção `Yes, get this app back up!`. Apesar das limitações, o serviço de hospedagem usado foi eficiente para que não fosse necessário realizar instalações, e que os alunos pudessem acessar intuitivamente. Realizou-se otimizações na segunda etapa para que o site de hospedagem comportasse o volume de acessos. E ainda contamos com o acesso local dos nossos equipamentos.
+> Acesse a [Oficina ofertada](https://ex071-2026s2.streamlit.app/). Como usamos uma ferramenta de hospedagem gratuita, o site não permanece disponível quando o tempo de inatividade é superior a 12 horas. Para o uso da ferramenta, deve-se selecionar a opção `Yes, get this app back up!`. Apesar das limitações, o serviço de hospedagem usado foi eficiente para que não fosse necessário realizar instalações, e que os alunos pudessem acessar intuitivamente. Realizou-se otimizações na segunda etapa para que o site de hospedagem comportasse o volume de acessos. E ainda contamos com o acesso local dos nossos equipamentos como segunda alternativa em possíveis imprevistos.
+
+
+![Tela Inicial](./imagens/tela.png)
+>Tela inicial do projeto prático.
 
 ### Evidências e Feedback
 
