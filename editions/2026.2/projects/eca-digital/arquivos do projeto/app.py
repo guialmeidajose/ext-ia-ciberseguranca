@@ -62,9 +62,7 @@ if st.button('Salvar Avaliações', type='primary'):
           df_editado.loc[idx, 'nota'],
       )
 
-  # ==============================================================================
-  # INFERÊNCIA EM TEMPO REAL COM NUMPY (Substituição do TensorFlow)
-  # ==============================================================================
+
   rated_indices = np.where(vetor_notas > 0)[0]
 
   if len(rated_indices) > 0:
@@ -90,7 +88,6 @@ if st.button('Salvar Avaliações', type='primary'):
   else:
     # Se nenhuma nota for fornecida, utiliza as médias gerais
     my_predictions = Ymean.flatten()
-  # ==============================================================================
 
   st.header('Filmes recomendados e previsão de avaliação do usuário:')
 
