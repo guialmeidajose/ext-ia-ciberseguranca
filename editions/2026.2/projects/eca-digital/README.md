@@ -175,7 +175,7 @@
 `Interpretação e Limitações:
 Concluimos que a oficina foi muito bem sucedida em ensinar como o Machine Learning funciona na prática. No entanto, a principal limitação foi o corte do debate sobre cibersegurança e golpes, o que representou uma perda no objetivo original de conscientização sobre riscos digitais. Além disso, falhas técnicas com os computadores exigiram adaptação total da equipe para outros formatos. A avaliação se baseou na comparação descritiva dos gráficos pré e pós e na observação direta das reações da turma. Não foram coletadas respostas identificáveis ou imagens sem autorização, preservando o anonimato dos participantes.`
 
-> Coleta de Dados por formulário:
+> Coleta de Dados por [formulário](https://docs.google.com/forms/d/1yPDDf6XYlwu_i575IVbj9jGu4txEPlIIX9HsFXsGswY/edit?ts=6aec8ba4#responses):
 >
 > ![Primeira pergunta](./imagens/feedback_01.png)
 >
